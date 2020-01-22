@@ -43,6 +43,8 @@ public class Main {
         arrX3[0][1][3] = 123;
          */
 
+        System.out.println("test");
+
     }
 
     private static void printMatrix(int[][] matrix) {
